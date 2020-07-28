@@ -3,3 +3,8 @@ body {
     background: #8DD7BF;
     padding: 20px 60px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
